@@ -159,6 +159,10 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+.logo-pic{
+  max-width: 200px;
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
