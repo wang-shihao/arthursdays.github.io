@@ -17,6 +17,11 @@ body {
   }
 }
 
+.news span{
+  color: #BD5D38;
+  font-weight: bold;
+}
+
 h1,
 h2,
 h3,
