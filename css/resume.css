@@ -17,6 +17,10 @@ body {
   }
 }
 
+.mb-0 span{
+  color: #BD5D38;
+}
+
 .news span{
   color: #BD5D38;
   font-weight: bold;
